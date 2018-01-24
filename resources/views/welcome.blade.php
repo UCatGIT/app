@@ -4,6 +4,11 @@
 
 @section('content')
 
-<h1>Welcome to myhaushalt24.ch</h1>
+<div class="jumbotron welcome">
+    <h1>Welcome to myHaushalt24.ch
+
+    <small>Better Householding</small>
+    </h1>
+</div>
 
 @endsection

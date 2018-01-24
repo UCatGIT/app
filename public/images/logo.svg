@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg-editor-canvas"
+   class="canvas"
+   width="577.28516"
+   height="116.8629"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.2 (30a58d1, 2017-08-07)">
+  <metadata
+     id="metadata3818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3816" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1215"
+     inkscape:window-height="711"
+     id="namedview3814"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="236"
+     inkscape:cx="-575.82541"
+     inkscape:cy="356.098"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg-editor-canvas" />
+  <g
+     data-item-type="text"
+     data-item="Business"
+     id="logo__item--business"
+     class="logo__item"
+     transform="translate(-512.5,-238.34527)">
+    <g
+       class="logo__item__inner"
+       transform="matrix(1.5847968,0,0,1.5847968,663.94531,285.20818)"
+       id="g3792">
+      <text
+         data-part-id="logo__item--business"
+         dy="0"
+         dominant-baseline="auto"
+         alignment-baseline="auto"
+         font-size="32px"
+         letter-spacing="0"
+         font-weight="bold"
+         font-style="normal"
+         data-font-family="Montserrat"
+         data-font-weight="bold"
+         data-font-style="normal"
+         data-ttf-url="/builder_assets/fontsttf/font-montserrat-bold-normal.ttf"
+         data-font-filename="montserrat-bold-normal"
+         id="text3790"
+         style="font-style:normal;font-weight:bold;font-size:32px;font-family:Montserrat;letter-spacing:0;dominant-baseline:auto;fill:#3bb44a">myHaushalt24.</text>
+    </g>
+  </g>
+  <g
+     data-item-type="image"
+     data-item="Image"
+     data-logo-item=""
+     id="logo__item--logo_0"
+     class="logo__item"
+     transform="translate(-512.5,-238.34527)">
+    <g
+       class="logo__item__inner"
+       transform="matrix(1.4523625,0,0,1.4523625,499.58414,222.5)"
+       id="g3805">
+      <g
+         id="g3803">
+        <path
+           d="M 49.072,44.738 27.133,59.883 c 3.138,7.839 10.355,13.604 19.025,14.673 v -7.603 h 5.486 v 7.642 C 60.61,73.621 68.07,67.643 71.161,59.511 Z m -0.69,19.244 h -5.67 v -5.669 h 5.67 z m 0,-6.951 h -5.67 v -5.67 h 5.67 z m 7.201,6.951 h -5.67 v -5.669 h 5.67 z m 0,-6.951 h -5.67 v -5.67 h 5.67 z"
+           data-part-id="logo__item--logo_0__0"
+           id="path3795"
+           inkscape:connector-curvature="0"
+           style="fill:#3bb44a" />
+        <path
+           d="m 22.399,63.194 c 4.603,10.146 14.81,17.202 26.673,17.202 16.173,0 29.281,-13.108 29.281,-29.281 0,-5.701 -1.632,-11.018 -4.448,-15.517 L 63.645,40.686 69.069,17.55 91.517,26.857 83.77,30.7 c 3.532,5.987 5.566,12.961 5.566,20.414 0,22.238 -18.026,40.26 -40.265,40.26 -15.605,0 -29.134,-8.876 -35.823,-21.855 z"
+           data-part-id="logo__item--logo_0__1"
+           id="path3797"
+           inkscape:connector-curvature="0"
+           style="fill:#58595b" />
+        <path
+           d="m 49.204,10.91 c -22.261,0 -40.311,18.047 -40.311,40.3 0,5.388 1.058,10.531 2.983,15.23 l 9.541,-6.117 c -0.94,-2.865 -1.445,-5.933 -1.445,-9.113 0,-16.141 13.082,-29.223 29.232,-29.223 5.657,0 10.937,1.607 15.408,4.396 L 66.584,14.84 C 61.322,12.319 55.429,10.91 49.204,10.91 Z"
+           data-part-id="logo__item--logo_0__2"
+           id="path3799"
+           inkscape:connector-curvature="0"
+           style="fill:#3bb44a" />
+        <path
+           d="M 69.543,39.314 62,43.024 63.787,32.64 c -4.031,-3.224 -9.153,-5.146 -14.715,-5.146 -13.04,0 -23.618,10.575 -23.618,23.622 0,0.404 0.01,0.811 0.036,1.215 l 7.612,-5.229 v -6.866 l 3.407,-1.561 v 6.086 L 49.145,36.085 72.68,52.028 c 0.014,-0.302 0.02,-0.605 0.02,-0.913 -0.001,-4.3 -1.15,-8.332 -3.157,-11.801 z"
+           data-part-id="logo__item--logo_0__3"
+           id="path3801"
+           inkscape:connector-curvature="0"
+           style="fill:#3bb44a" />
+      </g>
+    </g>
+  </g>
+  <g
+     data-item-type="text"
+     id="logo__item--tagline_1"
+     data-item="Tagline"
+     class="logo__item"
+     transform="translate(-512.5,-238.34527)">
+    <g
+       class="logo__item__inner"
+       transform="translate(666.5,320.5)"
+       id="g3810">
+      <text
+         dy="0"
+         dominant-baseline="auto"
+         alignment-baseline="auto"
+         font-size="18px"
+         letter-spacing="1"
+         data-font-family="Open Sans"
+         data-font-weight="normal"
+         data-font-style="normal"
+         font-weight="normal"
+         font-style="normal"
+         data-ttf-url="/builder_assets/fontsttf/font-open-sans-normal-normal.ttf"
+         data-part-id="logo__item--tagline_1__0"
+         data-font-filename="open-sans-normal-normal"
+         id="text3808"
+         style="font-style:normal;font-weight:normal;font-size:18px;font-family:'Open Sans';letter-spacing:1;dominant-baseline:auto;fill:#000000">Better householding</text>
+    </g>
+  </g>
+</svg>

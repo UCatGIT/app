@@ -19,11 +19,11 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    myHaushalt24.ch
+                    <img src="{{ url('/images/logo.svg') }}" style="height: 117px;" >
                 </a>
             </div>
 
-            <ul class="nav navbar-nav">
+            <ul class="nav navbar-nav pull-right">
                 <li><a href="{{ url('/chores') }}">Chores</a></li>
             </ul>
 

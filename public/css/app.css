@@ -1,5 +1,6 @@
 nav.navbar-default {
-    background-color: dodgerblue;
+    background-color: rgb(160, 223, 160);
+    margin-bottom: 100px;
 }
 
 .navbar-default .navbar-brand {
@@ -7,7 +8,21 @@ nav.navbar-default {
     color: white;
     font-size: 2.5rem;
     font-weight: bold;
+    padding: .1em 1em;
 }
 .navbar-default .navbar-nav>li>a {
     color: white;
+}
+
+.welcome {
+    background: url('/images/main.jpg') center center;
+    min-height: 60vh;
+}
+
+.welcome h1 {
+    color: #279626;
+    font-size: 5em;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 0px 0px 10px rgba(255, 255, 255, 1);
 }
