@@ -1,6 +1,8 @@
 <?php
 
 use App\Chore;
+use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Validator;
 use Illuminate\Http\Request;
 /*
 |--------------------------------------------------------------------------
