@@ -21,6 +21,44 @@ Route::get('/', function () {
 });
 
 
+
+//members
+
+Route::get('/members', function () {
+    $chores = Member::orderBy('created_at', 'asc')->get();
+
+    return view('members', [
+        'members' => $members
+    ]);
+});
+
+Route::post('/members', function (Request $request) {
+    $validator = Validator::make($request->all(), [
+        'firstName' => 'required|max:255',
+        'lastName' => 'required|max:255',
+    ]);
+
+    if ($validator->fails()) {
+        return redirect('/members')
+            ->withInput()
+            ->withErrors($validator);
+    }
+
+    $member = new Member;
+    $member->name = $request->name;
+    $member->save();
+
+    return redirect('/members');
+});
+
+
+Route::delete('/member/{member}', function (Member $member) {
+    $chore->delete();
+
+    return redirect('/members');
+});
+
+//chores
 Route::get('/chores', function () {
     $chores = Chore::orderBy('created_at', 'asc')->get();
 
@@ -47,8 +85,14 @@ Route::post('/chore', function (Request $request) {
     return redirect('/chores');
 });
 
+
 Route::delete('/chore/{chore}', function (Chore $chore) {
     $chore->delete();
 
     return redirect('/chores');
+});
+
+
+Route::get('/impressum', function () {
+    return view('impressum');
 });

@@ -25,6 +25,8 @@
 
             <ul class="nav navbar-nav pull-right">
                 <li><a href="{{ url('/chores') }}">Chores</a></li>
+                <li><a href="{{ url('/members') }}">Members</a></li>
+                <li><a href="{{ url('/impressum') }}">Impressum</a></li>
             </ul>
 
         </div>
