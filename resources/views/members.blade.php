@@ -24,6 +24,7 @@
 
             <div class="col-sm-6">
                 <input type="text" name="lastName" id="member-lastName" class="form-control">
+                
             </div>
         </div>
 
